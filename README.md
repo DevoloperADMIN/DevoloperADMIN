@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=FF0000&center=true&vCenter=true&repeat=false&width=442&height=51&lines=Welcome)](https://git.io/typing-svg)
+[![Welcome](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=FF0000&vCenter=true&repeat=false&width=442&height=51&lines=Welcome)](https://git.io/typing-svg)
 
 
 ![GitHub](https://komarev.com/ghpvc/?username=DevoloperADMIN&style=flat)
