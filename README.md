@@ -3,7 +3,7 @@
 
 
 ![GitHub](https://komarev.com/ghpvc/?username=DevoloperADMIN&style=flat)
-[![Discord](https://dcbadge.vercel.app/api/shield/772175114321657886?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/772175114321657886)
+[![Discord](https://dcbadge.vercel.app/api/shield/772175114321657886)](https://discord.com/users/772175114321657886)
 <br>
 
 <h2 align="center">ABOUT</h2>
