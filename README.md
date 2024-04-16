@@ -8,10 +8,6 @@
 
 <h2 align="center">ABOUT</h2>
 
-- • **#1 VIP Tool : [Zphisher - VIP](https://github.com/DevoloperADMIN/Zphisher.VIP)**
-
-- • **Open Source Project**
-
 - • **My Discord : [DeveloperADMIN](https://discord.com/users/772175114321657886)**
 
 - • **My Telegram : [@DeveloperADMIN](https://t.me/DeveIoperADMIN)**
